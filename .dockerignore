@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+.DS_Store
+.env
+*.log
+
+# Fly config
+fly.toml
+
+# Git
+.git
+.gitignore
+
+# Optional build output
+dist
+build
